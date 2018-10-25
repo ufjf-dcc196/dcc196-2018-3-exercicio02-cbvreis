@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercicio - Series</string>
+
+    <string name="nomeSerie">Digite o nome da série.</string>
+    <string name="numeroTemporada">Digite o número da temporada.</string>
+    <string name="episodioNumero">Digite o número do episódio.</string>
+</resources>
+
